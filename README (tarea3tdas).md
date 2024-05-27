@@ -14,7 +14,7 @@ Dado que el sistema está diseñado para ser accesible y fácil de probar, recom
 4. Pega la URL del repositorio: `https://github.com/YosoyelDario/Tarea-3-Dario-Fuentes.git`.
 5. [Repl.it](http://repl.it/) clonará el repositorio y preparará un entorno de ejecución.
 6. En la pestaña "Configurate Repl", sección "Configure the Compile Command", escriba o pegue de preferencia el siguiente comando "gcc tdas/*.c main.c -Wno-unused-result -o main" y presione "done".
-7. Presiona el botón "Run" para compilar y ejecutar la aplicación.
+7. Configure "Configure the Run Command" escriba o pegue de referencia el siguiente comando para Run : "./tarea3".Presiona el botón "Run" para compilar y ejecutar la aplicación.
 ## Funcionalidades 
 
 ### Funcionando correctamente:
